@@ -1,6 +1,6 @@
 This is a dockerized java Hello world application 
 Follow these steps to create an image for the application and to run it:
-
+    #Open the source code in intellij idea
     #Compile the java code to generate .class files
 
     #Generate the docker image using command: "docker build -t java-docker-helloworld:1.0 . "
