@@ -7,3 +7,5 @@ Follow these steps to create an image for the application and to run it:
     #To list all the docker images, run "docker images"
     #Run the docker image using the command: "docker run java-docker-helloworld:1.0"
     #You can see the "Hello World!" and iteration count printing in console.
+    #Press ctrl+c to stop execution
+Cheers!
